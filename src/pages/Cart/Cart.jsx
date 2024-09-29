@@ -1,5 +1,5 @@
 import "./Cart.scss";
-import CartItems from "./cartItems.jsx";
+import CartItems from "./CartItems.jsx";
 function Cart() {
     return (
         <div className="cart">
